@@ -1,0 +1,20 @@
+{
+  "name": "hectorgram",
+  "version": "0.1.0",
+  "description": "comparte tus fotos en platzi con el resto de la comunidad",
+  "main": "server.js",
+  "scripts": {},
+  "keywords": [
+    "hectorgram"
+  ],
+  "author": "hector murillo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.98.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
